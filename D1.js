@@ -78,7 +78,7 @@ console.log(name1!==name2)
 console.log(name1.toLowerCase() == name2.toLowerCase())
 
 /* extra 2 */
-let celsius = 5
+let celsius = prompt("inserisci gradi celsius")
 const frazione = 1.8
 const addendo = 32
 
